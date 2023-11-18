@@ -1,0 +1,13 @@
+3, 10, 17, 8, 9, 4, 11, 6
+sum: 68
+size: 8
+average: 8.5
+min: 3
+max: 17
+hash: 5306bf323d3d539d4e8dee134ac310024254ab31699eec91652791a818d077323, 10, 17, 11, 8, 9, 4, 11, 6
+sum: 79
+size: 9
+average: 8.8
+min: 3
+max: 17
+hash: d9267f4eaaa0b47464d8ff8e3e41f69eeb0745fb8455ee9a5a5b62e92990e39c

@@ -1,0 +1,7 @@
+data1.phext is the original test data.
+it included 8 elements, with an average of 8.5, and a hash of 5306bf.
+
+data2.phext is the corrupted data.
+it includes 9 elements, with an average of 8.8, and a hash of d9267f.
+
+in my expert opinion, we should leverage data1.phext
